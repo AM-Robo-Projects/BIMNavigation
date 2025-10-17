@@ -1,0 +1,108 @@
+Element ID: 3lB7ux_6X6lA8nOgr2eC7X
+Name: Door_T51:Door_T51:324669
+Type: Unknown
+Location: x=0.0, y=0.0, z=0.0
+Description: Unknown named Door_T51:Door_T51:324669 at the given location.
+
+Element ID: 3lB7ux_6X6lA8nOgr2eCc5
+Name: Door_T34:Left:326745
+Type: Unknown
+Location: x=0.0, y=0.0, z=0.0
+Description: Unknown named Door_T34:Left:326745 at the given location.
+
+Element ID: 3lB7ux_6X6lA8nOgr2eCb4
+Name: Door_T34:Right:326808
+Type: Unknown
+Location: x=0.0, y=0.0, z=0.0
+Description: Unknown named Door_T34:Right:326808 at the given location.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnL5Q
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:445818
+Type: Unknown
+Location: x=-13894.1216534994, y=6030.12807336398, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:445818 at the given location.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnKd7
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:447975
+Type: Unknown
+Location: x=6545.87834650058, y=6030.12807336391, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:447975 at the given location.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnKgE
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448174
+Type: Unknown
+Location: x=11691.3783465006, y=6030.12807336389, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448174 at the given location.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnKk4
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448420
+Type: Unknown
+Location: x=16841.3783465006, y=6030.12807336388, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448420 at the given location.
+
+Element ID: 2V9H2E8FD8fuBJFUErPt_U
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450561
+Type: Unknown
+Location: x=21949.4027321797, y=6030.12807336386, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450561 at the given location.
+
+Element ID: 2V9H2E8FD8fuBJFUErPtzL
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450762
+Type: Unknown
+Location: x=-19044.1216534994, y=6030.12807336399, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450762 at the given location.
+
+Element ID: 2V9H2E8FD8fuBJFUErPtuP
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450950
+Type: Unknown
+Location: x=-8764.12165349942, y=6030.12807336396, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450950 at the given location.
+
+Element ID: 2V9H2E8FD8fuBJFUErPtsj
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:451122
+Type: Unknown
+Location: x=-3634.12165349942, y=6030.12807336395, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:451122 at the given location.
+
+Element ID: 0I6g0xYhjCSReVDrs7L0vs
+Name: Door_T53:Door_T53:462137
+Type: Unknown
+Location: x=0.0, y=0.0, z=0.0
+Description: Unknown named Door_T53:Door_T53:462137 at the given location.
+
+Element ID: 1yuiwzGI5FCPxrfaANPMy6
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:509403
+Type: Unknown
+Location: x=-13892.3715786033, y=-6099.13739227932, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:509403 at the given location.
+
+Element ID: 1yuiwzGI5FCPxrfaANPMHF
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511634
+Type: Unknown
+Location: x=-18987.8741546251, y=-6087.9347231327, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511634 at the given location.
+
+Element ID: 1yuiwzGI5FCPxrfaANPMLM
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511883
+Type: Unknown
+Location: x=-25501.1053078626, y=-6073.61512018947, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511883 at the given location.
+
+Element ID: 1yuiwzGI5FCPxrfaANPNga
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:512121
+Type: Unknown
+Location: x=-32312.3013084113, y=-6058.64042944049, z=0.0
+Description: Unknown named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:512121 at the given location.
+
+Element ID: 2RSbNzzRPBoAVn2mVp1PwL
+Name: Door_F218:Door_F218:553575
+Type: Unknown
+Location: x=-20.0, y=0.0, z=0.0
+Description: Unknown named Door_F218:Door_F218:553575 at the given location.
+
+Element ID: 2vu_tmwqX5LRNohmiBn0Z4
+Name: Door_F218:Door_F218:590849
+Type: Unknown
+Location: x=0.0, y=0.0, z=0.0
+Description: Unknown named Door_F218:Door_F218:590849 at the given location.
+

@@ -1,0 +1,144 @@
+Element ID: 3lB7ux_6X6lA8nOgr2eC7X
+Name: Door_T51:Door_T51:324669
+Type: IfcDoor
+Material: Unknown
+Location: x=31.76217834650055, y=-6.033288230287872, z=0.0
+Rooms: Level 0
+Description: IfcDoor named Door_T51:Door_T51:324669 located in Level 0.
+
+Element ID: 3lB7ux_6X6lA8nOgr2eCc5
+Name: Door_T34:Left:326745
+Type: IfcDoor
+Material: Unknown
+Location: x=45.27991477438686, y=6.319628073363779, z=0.0
+Rooms: Level 0
+Description: IfcDoor named Door_T34:Left:326745 located in Level 0.
+
+Element ID: 3lB7ux_6X6lA8nOgr2eCb4
+Name: Door_T34:Right:326808
+Type: IfcDoor
+Material: Unknown
+Location: x=40.427178346500604, y=6.319628073363794, z=0.0
+Rooms: Level 0
+Description: IfcDoor named Door_T34:Right:326808 located in Level 0.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnL5Q
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:445818
+Type: IfcDoor
+Material: Unknown
+Location: x=-13.8941216534994, y=6.030128073363979, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:445818 located in Unknown.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnKd7
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:447975
+Type: IfcDoor
+Material: Unknown
+Location: x=6.54587834650058, y=6.03012807336391, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:447975 located in Unknown.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnKgE
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448174
+Type: IfcDoor
+Material: Unknown
+Location: x=11.6913783465006, y=6.03012807336389, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448174 located in Unknown.
+
+Element ID: 1Wg7AH23jBLBf1DmtTnKk4
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448420
+Type: IfcDoor
+Material: Unknown
+Location: x=16.8413783465006, y=6.03012807336388, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:448420 located in Unknown.
+
+Element ID: 2V9H2E8FD8fuBJFUErPt_U
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450561
+Type: IfcDoor
+Material: Unknown
+Location: x=21.9494027321797, y=6.030128073363859, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450561 located in Unknown.
+
+Element ID: 2V9H2E8FD8fuBJFUErPtzL
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450762
+Type: IfcDoor
+Material: Unknown
+Location: x=-19.0441216534994, y=6.03012807336399, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450762 located in Unknown.
+
+Element ID: 2V9H2E8FD8fuBJFUErPtuP
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450950
+Type: IfcDoor
+Material: Unknown
+Location: x=-8.76412165349942, y=6.03012807336396, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:450950 located in Unknown.
+
+Element ID: 2V9H2E8FD8fuBJFUErPtsj
+Name: Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:451122
+Type: IfcDoor
+Material: Unknown
+Location: x=-3.63412165349942, y=6.03012807336395, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2:Glass_Dbl_Door:451122 located in Unknown.
+
+Element ID: 0I6g0xYhjCSReVDrs7L0vs
+Name: Door_T53:Door_T53:462137
+Type: IfcDoor
+Material: Unknown
+Location: x=-9.325042799097298, y=6.27023949886433, z=0.0
+Rooms: Level 0
+Description: IfcDoor named Door_T53:Door_T53:462137 located in Level 0.
+
+Element ID: 1yuiwzGI5FCPxrfaANPMy6
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:509403
+Type: IfcDoor
+Material: Unknown
+Location: x=-13.892371578603301, y=-6.09913739227932, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:509403 located in Unknown.
+
+Element ID: 1yuiwzGI5FCPxrfaANPMHF
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511634
+Type: IfcDoor
+Material: Unknown
+Location: x=-18.9878741546251, y=-6.0879347231327, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511634 located in Unknown.
+
+Element ID: 1yuiwzGI5FCPxrfaANPMLM
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511883
+Type: IfcDoor
+Material: Unknown
+Location: x=-25.5011053078626, y=-6.07361512018947, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:511883 located in Unknown.
+
+Element ID: 1yuiwzGI5FCPxrfaANPNga
+Name: Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:512121
+Type: IfcDoor
+Material: Unknown
+Location: x=-32.3123013084113, y=-6.05864042944049, z=0.0
+Rooms: Unknown
+Description: IfcDoor named Doors_Dbl_Glass_4_ARENA2_INT OPENING:Glass_Dbl_Door 2_INT OPENING:512121 located in Unknown.
+
+Element ID: 2RSbNzzRPBoAVn2mVp1PwL
+Name: Door_F218:Door_F218:553575
+Type: IfcDoor
+Material: Unknown
+Location: x=-4.4152883201661, y=-7.9552898419339, z=0.0
+Rooms: Level 0
+Description: IfcDoor named Door_F218:Door_F218:553575 located in Level 0.
+
+Element ID: 2vu_tmwqX5LRNohmiBn0Z4
+Name: Door_F218:Door_F218:590849
+Type: IfcDoor
+Material: Unknown
+Location: x=-2.1102883201660996, y=-7.9552898419339, z=0.0
+Rooms: Level 0
+Description: IfcDoor named Door_F218:Door_F218:590849 located in Level 0.
+

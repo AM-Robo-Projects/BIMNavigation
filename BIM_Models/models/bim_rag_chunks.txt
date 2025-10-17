@@ -1,0 +1,30 @@
+Element ID: 3lY7vAqg1AOuHmhrmPSRNL
+Name: None
+Type: WINDOW
+Location: x=-4900.0, y=-45.0, z=400.0
+Description: WINDOW named None at the given location.
+
+Element ID: 1$ROshSLD8PxvcHXbFnnTi
+Name: None
+Type: WINDOW
+Location: x=-3130.0, y=-45.0, z=400.0
+Description: WINDOW named None at the given location.
+
+Element ID: 1omMjrueL1RBg$X8j2Z2J5
+Name: None
+Type: WINDOW
+Location: x=-1360.0, y=-45.0, z=400.0
+Description: WINDOW named None at the given location.
+
+Element ID: 2hoO8_fkD7T9eJPdlaToJT
+Name: None
+Type: WINDOW
+Location: x=2070.0, y=-45.0, z=400.0
+Description: WINDOW named None at the given location.
+
+Element ID: 1f2A4_vjLEBRKe77yVKHtq
+Name: None
+Type: WINDOW
+Location: x=-4810.0, y=-45.0, z=400.0
+Description: WINDOW named None at the given location.
+

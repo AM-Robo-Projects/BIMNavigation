@@ -1,0 +1,27 @@
+## Run code
+
+- activate conda and then activate the conda environment. 
+
+'conda activate qwen2-vl´
+
+
+some results : 
+
+Question : 
+
+ prompt = f""" I am currently in the construction site and I want to know where is the nearest door to this position {user_position} according to the BIM model information below : {context},note that the positions provided from the context are in mm and the user is in mm. Please answer in a concise manner with all the details from the provided context. If you don't have enough information, just say "I don't know" ."""
+
+Answer :
+
+Model answer (Cypher query used for the database): MATCH (room)-[:CONTAINS]->(door)
+WHERE door.ifcType = 'IfcDoor'
+RETURN 
+  room.ifcType AS roomType,
+  room.name AS roomName,
+  door.ifcId AS doorId,
+  door.name AS doorName,
+  door.position_x,
+  door.position_y,
+  door.position_z
+connection to database established
+Final answer: The nearest door to the position [12.34, 56.78, 9.1] is the door with the ID '1hOSvn6df7F8_7GcBWlRGQ', which is located at the coordinates [8.628, -16.178, 1.0202] in the BIM model.
