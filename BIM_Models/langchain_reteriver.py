@@ -788,7 +788,7 @@ if __name__ == "__main__":
     print("="*70)
     
     test_queries = [
-            "What are the positions of all doors and how many doors are there? Do we have any walls with doors?", 
+            "can you tell me all the doors and their bounding boxes and positions in the building?", 
     ]
     
     for query in test_queries:
